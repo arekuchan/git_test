@@ -1,0 +1,1 @@
+Arekuchan's first git project!
